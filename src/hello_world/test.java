@@ -14,6 +14,7 @@ public class test {
         public static void main(String[] args) {
         // TODO code application logic here
             System.out.println("Bienvenido a clase");
+            System.out.println("EXCELENTE DIA");
     }
     
 }
